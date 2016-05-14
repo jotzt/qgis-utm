@@ -1,2 +1,2 @@
 # qgis-utm
-Creating Maps with QGIS displaying MGRS/UTMREF Grid
+Creating Maps displaying MGRS/UTMREF grid using Quantum GIS (QGIS)
